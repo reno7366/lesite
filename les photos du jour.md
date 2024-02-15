@@ -5,7 +5,7 @@ in_menu: true
 ---
 **Bonjour,**
 
-<h1>Bonjour</h1>
+<h2>Bonjour</h2>
 
 Aujourd'hui nous avons fait de la peinture
 
