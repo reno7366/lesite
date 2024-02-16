@@ -9,7 +9,7 @@ Sur Linux on dit que tout est fichier, les données (images, programme) , les p�
 
 L'arborescence de répertoire commence avec le root directory la racine ( / ).
 
-![[arborescence_linux|1000]]
+![Arborescence de répertoire]({% link images/arborescence_linux.png %})
 
 ## 3 types de fichiers
 
