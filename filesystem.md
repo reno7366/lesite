@@ -1,7 +1,7 @@
 ---
 title: "FileSystem"
 order: 8
-in_menu: true
+in_menu: false
 ---
 Le Système de fichiers ou File System définit l'organisation des données sur les différents supports de stockage.
 
