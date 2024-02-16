@@ -3,6 +3,6 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-# L'Échappée Belle
+# Le site
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+Ce site est réalisé grâce à **L'Atelier de Scribouilli**. J'ai découvert cet outil sur le site YouTube de **Capitole du libre**. Véritable mine d'information, je me réjoui dès la sortie de nouvelles vidéos conférences toutes plus intéressantes les une que les autres. 
