@@ -1,7 +1,7 @@
 ---
 title: "user"
 order: 7
-in_menu: true
+in_menu: false
 ---
 # La commande ``adduser`` 
 
