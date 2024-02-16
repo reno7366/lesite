@@ -3,4 +3,4 @@ title: "Linux"
 order: 4
 in_menu: true
 ---
-<a href="./linux.md">Linux</a> 
+<a href="./user.md">L'utilisateur Linux</a> 
